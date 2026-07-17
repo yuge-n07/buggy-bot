@@ -1,0 +1,12 @@
+cat > .gitignore << 'EOF'
+*.pyc
+__pycache__/
+data/opbr_data.json
+buggy_memory.db
+.env
+*.zip
+node_modules/
+EOF__pycache__/
+*.pyc
+buggy_memory.db
+.env

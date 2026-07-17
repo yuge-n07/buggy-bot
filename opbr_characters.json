@@ -1,0 +1,5832 @@
+[
+  {
+    "name": "Wapol",
+    "subtitle": "Evil Black Drum Kingdom / King",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Dark",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FDark-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/evil-black-drum-kingdom-king-wapol",
+    "portrait_url": null
+  },
+  {
+    "name": "King Dalton",
+    "subtitle": "Sakura Kingdom",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Dark",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FDark-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/sakura-kingdom-king-dalton",
+    "portrait_url": null
+  },
+  {
+    "name": "Lapin",
+    "subtitle": "Drum Island",
+    "rarity": "Free 3 Stars",
+    "stars": "3★",
+    "color": "Dark",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "The Grand Line"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FDark-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/drum-island-lapin",
+    "portrait_url": null
+  },
+  {
+    "name": "Sengoku",
+    "subtitle": "Paramount War",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "The Grand Line",
+      "Power users",
+      "Navy"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/paramount-war-sengoku",
+    "portrait_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fcharacters%2F347-Paramount-War-Sengoku.png&w=3840&q=75"
+  },
+  {
+    "name": "St. Ethanbaron V. Nusjuro",
+    "subtitle": "The Five Elders",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "New World",
+      "Celestial Dragons / Former Celestial Dragons"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-five-elders-st-ethanbaron-v-nusjuro",
+    "portrait_url": null
+  },
+  {
+    "name": "Van Ogre",
+    "subtitle": "Warp-Warp Fruit",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Dark",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FDark-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/warp-warp-fruit-van-ogre",
+    "portrait_url": null
+  },
+  {
+    "name": "Doc Q",
+    "subtitle": "Sick-Sick Fruit",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/sick-sick-fruit-doc-q",
+    "portrait_url": null
+  },
+  {
+    "name": "Mr. 5",
+    "subtitle": "Baroque Works / Officer Agent",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Dark",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Baroque Works",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FDark-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/baroque-works-officer-agent-mr-5",
+    "portrait_url": null
+  },
+  {
+    "name": "Ms. Valentine",
+    "subtitle": "Baroque Works / Officer Agent",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Baroque Works",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/baroque-works-officer-agent-ms-valentine",
+    "portrait_url": null
+  },
+  {
+    "name": "Marshall D. Teach",
+    "subtitle": "The Four Emperors",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Light",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "The Seven Warlords of the Sea / Former Warlords of the Sea",
+      "Paramecia",
+      "Logia"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FDark-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-four-emperors-marshall-d-teach",
+    "portrait_url": null
+  },
+  {
+    "name": "Ace & Sabo & Luffy",
+    "subtitle": "ASL",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Light",
+    "class": "Runner",
+    "tags": [
+      "Attacker(s)",
+      "East Blue",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FLight-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/asl-ace-and-sabo-and-luffy",
+    "portrait_url": null
+  },
+  {
+    "name": "Trafalgar Law",
+    "subtitle": "Winner Island",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "The Seven Warlords of the Sea / Former Warlords of the Sea",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/winner-island-trafalgar-law",
+    "portrait_url": null
+  },
+  {
+    "name": "Bepo",
+    "subtitle": "Winner Island",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Light",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "New World",
+      "Minks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FLight-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/winner-island-bepo",
+    "portrait_url": null
+  },
+  {
+    "name": "Vegapunk",
+    "subtitle": "Genius Scientist",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Navy",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/genius-scientist-vegapunk",
+    "portrait_url": null
+  },
+  {
+    "name": "Kuma & Bonney",
+    "subtitle": "Father and Daughter",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "The Seven Warlords of the Sea / Former Warlords of the Sea",
+      "Revolutionary Army",
+      "Paramecia"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/father-and-daughter-kuma-and-bonney",
+    "portrait_url": null
+  },
+  {
+    "name": "Jinbe",
+    "subtitle": "Egghead",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Dark",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "The Seven Warlords of the Sea / Former Warlords of the Sea",
+      "Straw Hat Pirates",
+      "Fish-Man"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FDark-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/egghead-jinbe",
+    "portrait_url": null
+  },
+  {
+    "name": "Franky",
+    "subtitle": "Egghead",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Dark",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FDark-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/egghead-franky",
+    "portrait_url": null
+  },
+  {
+    "name": "St. Jaygarcia Saturn",
+    "subtitle": "The Five Elders",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Dark",
+    "class": "Runner",
+    "tags": [
+      "Defender(s)",
+      "New World",
+      "Celestial Dragons / Former Celestial Dragons"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FDark-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-five-elders-st-jaygarcia-saturn",
+    "portrait_url": null
+  },
+  {
+    "name": "Nico Robin",
+    "subtitle": "Egghead",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Light",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FLight-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/egghead-nico-robin",
+    "portrait_url": null
+  },
+  {
+    "name": "Tony Tony Chopper",
+    "subtitle": "Egghead",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Light",
+    "class": "Defender",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "Zoan",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FLight-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/egghead-tony-tony-chopper",
+    "portrait_url": null
+  },
+  {
+    "name": "Brook",
+    "subtitle": "Egghead",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/egghead-brook",
+    "portrait_url": null
+  },
+  {
+    "name": "Monkey D. Luffy",
+    "subtitle": "The Four Emperors",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Light",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "Zoan",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FLight-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-four-emperors-monkey-d-luffy",
+    "portrait_url": null
+  },
+  {
+    "name": "Usopp",
+    "subtitle": "Egghead",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Light",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Straw Hat Pirates",
+      "New World",
+      "Long-Range Normal Attacks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FLight-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/egghead-usopp",
+    "portrait_url": null
+  },
+  {
+    "name": "Nami",
+    "subtitle": "Egghead",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/egghead-nami",
+    "portrait_url": null
+  },
+  {
+    "name": "Issho",
+    "subtitle": "Blind Swordsman Fujitora",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Light",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Navy",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FLight-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/blind-swordsman-fujitora-issho",
+    "portrait_url": null
+  },
+  {
+    "name": "Aramaki",
+    "subtitle": "Groves of Wrath Ryokugyu",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Navy",
+      "Logia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/groves-of-wrath-ryokugyu-aramaki",
+    "portrait_url": null
+  },
+  {
+    "name": "Borsalino",
+    "subtitle": "Ama no Murakumo Sword Kizaru",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Navy",
+      "Logia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/ama-no-murakumo-sword-kizaru-borsalino",
+    "portrait_url": null
+  },
+  {
+    "name": "Sanji",
+    "subtitle": "Davy Back Fight",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(S",
+      "Straw Hat Pirates",
+      "The Grand Line"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/davy-back-fight-sanji",
+    "portrait_url": null
+  },
+  {
+    "name": "Foxy",
+    "subtitle": "Foxy Pirates / Captain",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Paramecia",
+      "Captain",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/foxy-pirates-captain-foxy",
+    "portrait_url": null
+  },
+  {
+    "name": "Monkey D. Luffy",
+    "subtitle": "Davy Back Fight",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/davy-back-fight-monkey-d-luffy",
+    "portrait_url": null
+  },
+  {
+    "name": "Sai",
+    "subtitle": "Happosui Army / 13th Chief",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Light",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "New World",
+      "Straw Hat Fleet"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FLight-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/happosui-army-13th-chief-sai",
+    "portrait_url": null
+  },
+  {
+    "name": "Leo",
+    "subtitle": "Tontatta Pirates / Captain",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Paramecia",
+      "Captain",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/tontatta-pirates-captain-leo",
+    "portrait_url": null
+  },
+  {
+    "name": "St. Charlos",
+    "subtitle": "Celestial Dragon",
+    "rarity": "",
+    "stars": "2★",
+    "color": "Light",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "The Grand Line",
+      "Long-Range Normal Attacks",
+      "Celestial Dragons / Former Celestial Dragons"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FLight-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/celestial-dragon-st-charlos",
+    "portrait_url": null
+  },
+  {
+    "name": "Shiryu",
+    "subtitle": "Clear-Clear Fruit",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/clear-clear-fruit-shiryu",
+    "portrait_url": null
+  },
+  {
+    "name": "Jesus Burgess",
+    "subtitle": "Strong-Strong Fruit",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/strong-strong-fruit-jesus-burgess",
+    "portrait_url": null
+  },
+  {
+    "name": "Vinsmoke Yonji",
+    "subtitle": "Germa 66",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "New World",
+      "Germa 66",
+      "Royalty / Former Royalty"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/germa-66-vinsmoke-yonji",
+    "portrait_url": null
+  },
+  {
+    "name": "Vinsmoke Neji",
+    "subtitle": "Germa 66",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Defender(s)",
+      "New World",
+      "Germa 66",
+      "Royalty / Former Royalty"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/germa-66-vinsmoke-neji",
+    "portrait_url": null
+  },
+  {
+    "name": "Vinsmoke Ichiji",
+    "subtitle": "Germa 66",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "New World",
+      "Germa 66",
+      "Royalty / Former Royalty"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/germa-66-vinsmoke-ichiji",
+    "portrait_url": null
+  },
+  {
+    "name": "Sabo",
+    "subtitle": "Flame Emperor",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Revolutionary Army",
+      "Logia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/flame-emperor-sabo",
+    "portrait_url": null
+  },
+  {
+    "name": "Koala",
+    "subtitle": "Assistant Fish-Man Karate Master",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Dark",
+    "class": "Attacker",
+    "tags": [
+      "Defender(s)",
+      "Revolutionary Army",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FDark-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/assistant-fish-man-karate-master-koala",
+    "portrait_url": null
+  },
+  {
+    "name": "Kuzan",
+    "subtitle": "Blackbeard Pirates",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Defender(s)",
+      "Logia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/blackbeard-pirates-kuzan",
+    "portrait_url": null
+  },
+  {
+    "name": "Koby",
+    "subtitle": "Navy HQ / Captain",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Dark",
+    "class": "Attacker",
+    "tags": [
+      "Defender(s)",
+      "Navy",
+      "The Grand Line"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FDark-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/navy-hq-captain-koby",
+    "portrait_url": null
+  },
+  {
+    "name": "Monkey D. Garp",
+    "subtitle": "Legendary Hero",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Dark",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Navy",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FDark-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/legendary-hero-monkey-d-garp",
+    "portrait_url": null
+  },
+  {
+    "name": "Helmeppo",
+    "subtitle": "Navy HQ / Lt. Commander",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Light",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Navy",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FLight-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/navy-hq-lt-commander-helmeppo",
+    "portrait_url": null
+  },
+  {
+    "name": "Jewelry Bonney",
+    "subtitle": "Egghead",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Paramecia",
+      "Captain",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/egghead-jewelry-bonney",
+    "portrait_url": null
+  },
+  {
+    "name": "Sanji",
+    "subtitle": "Egghead",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Straw Hat Pirates",
+      "New World",
+      "Royalty / Former Royalty"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/egghead-sanji",
+    "portrait_url": null
+  },
+  {
+    "name": "S-Shark",
+    "subtitle": "Seraphim",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Navy",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/seraphim-s-shark",
+    "portrait_url": null
+  },
+  {
+    "name": "York",
+    "subtitle": "Punk-06",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Navy",
+      "New World",
+      "Long-Range Normal Attacks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/punk-06-york",
+    "portrait_url": null
+  },
+  {
+    "name": "Atlas",
+    "subtitle": "Punk-05",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Dark",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Navy",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FDark-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/punk-05-atlas",
+    "portrait_url": null
+  },
+  {
+    "name": "S-Bear",
+    "subtitle": "Seraphim",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Navy",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/seraphim-s-bear",
+    "portrait_url": null
+  },
+  {
+    "name": "Lilith",
+    "subtitle": "Punk-02",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Navy",
+      "New World",
+      "Long-Range Normal Attacks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/punk-02-lilith",
+    "portrait_url": null
+  },
+  {
+    "name": "Uta",
+    "subtitle": "Happy Halloween",
+    "rarity": "Limited Bounty Festival",
+    "stars": "4★",
+    "color": "Dark",
+    "class": "Defender",
+    "tags": [
+      "Runner(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FDark-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/happy-halloween-uta",
+    "portrait_url": null
+  },
+  {
+    "name": "Broggy",
+    "subtitle": "The Red",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Dark",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Captain",
+      "New World",
+      "Giant"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FDark-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-red-broggy",
+    "portrait_url": null
+  },
+  {
+    "name": "Dorry",
+    "subtitle": "The Blue",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Dark",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "New World",
+      "Worst Generation"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FDark-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-blue-dorry",
+    "portrait_url": null
+  },
+  {
+    "name": "Shanks",
+    "subtitle": "Divine Departure",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Light",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Red-Haired Pirates",
+      "Captain",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FLight-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/divine-departure-shanks",
+    "portrait_url": null
+  },
+  {
+    "name": "Stussy",
+    "subtitle": "Vegapunk's Spy",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/vegapunks-spy-stussy",
+    "portrait_url": null
+  },
+  {
+    "name": "Kaku",
+    "subtitle": "Awakened Form",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Light",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Cipher Pol",
+      "Zoan",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FLight-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/awakened-form-kaku",
+    "portrait_url": null
+  },
+  {
+    "name": "Rob Lucci",
+    "subtitle": "Awakened Form",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Runner(s)",
+      "Cipher Pol",
+      "Zoan",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/awakened-form-rob-lucci",
+    "portrait_url": null
+  },
+  {
+    "name": "Jabra",
+    "subtitle": "CP9",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Cipher Pol",
+      "Zoan",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/cp9-jabra",
+    "portrait_url": null
+  },
+  {
+    "name": "Blueno",
+    "subtitle": "CP9",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Cipher Pol",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/cp9-blueno",
+    "portrait_url": null
+  },
+  {
+    "name": "S-Hawk",
+    "subtitle": "Seraphim",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Navy",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/seraphim-s-hawk",
+    "portrait_url": null
+  },
+  {
+    "name": "Roronoa Zoro",
+    "subtitle": "Egghead",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Light",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "New World",
+      "Worst Generation"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FLight-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/egghead-roronoa-zoro",
+    "portrait_url": null
+  },
+  {
+    "name": "S-Snake",
+    "subtitle": "Seraphim",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Navy",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/seraphim-s-snake",
+    "portrait_url": null
+  },
+  {
+    "name": "Monkey D. Luffy",
+    "subtitle": "Egghead",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "Zoan",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/egghead-monkey-d-luffy",
+    "portrait_url": null
+  },
+  {
+    "name": "Pacifista",
+    "subtitle": "The Navy's Human Weapon",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Dark",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Navy",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FDark-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-navys-human-weapon-pacifista",
+    "portrait_url": null
+  },
+  {
+    "name": "Sentomaru",
+    "subtitle": "The Most Defensive Man in the World",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Navy",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-most-defensive-man-in-the-world-sentomaru",
+    "portrait_url": null
+  },
+  {
+    "name": "Demaro Black",
+    "subtitle": "Fake Straw Hat Pirates / Captain",
+    "rarity": "Free 3 Stars",
+    "stars": "3★",
+    "color": "Light",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Captain",
+      "New World",
+      "Long-Range Normal Attacks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FLight-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/fake-straw-hat-pirates-captain-demaro-black",
+    "portrait_url": null
+  },
+  {
+    "name": "Mont Blanc Noland",
+    "subtitle": "Lvneel Kingdom / Exploration Ship Admiral",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "The Grand Line"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/lvneel-kingdom-exploration-ship-admiral-mont-blanc-noland",
+    "portrait_url": null
+  },
+  {
+    "name": "Kalgara",
+    "subtitle": "The Great Warrior of Shandora",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "The Grand Line"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-great-warrior-of-shandora-kalgara",
+    "portrait_url": null
+  },
+  {
+    "name": "Ganfor",
+    "subtitle": "The Sky Knight",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Dark",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "The Grand Line"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FDark-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-sky-knight-ganfor",
+    "portrait_url": null
+  },
+  {
+    "name": "Silvers Rayleigh",
+    "subtitle": "Ex-Roger Pirates / First Mate",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Dark",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "New World",
+      "Roger Pirates / Ex-Roger Pirates"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FDark-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/ex-roger-pirates-first-mate-silvers-rayleigh",
+    "portrait_url": null
+  },
+  {
+    "name": "Gol D. Roger",
+    "subtitle": "Great Pirate",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Dark",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Captain",
+      "Roger Pirates / Ex-Roger Pirates"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FDark-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/great-pirate-gol-d-roger",
+    "portrait_url": null
+  },
+  {
+    "name": "Carrot",
+    "subtitle": "Whole Cake Island",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Light",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "New World",
+      "Minks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FLight-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/whole-cake-island-carrot",
+    "portrait_url": null
+  },
+  {
+    "name": "Kozuki Oden",
+    "subtitle": "Heir to the Shogun of Wano",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Light",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Whitebeard Pirates",
+      "Kozuki Clan / Kozuki Clan Servant",
+      "Roger Pirates / Ex-Roger Pirates"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FLight-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/heir-to-the-shogun-of-wano-kozuki-oden",
+    "portrait_url": null
+  },
+  {
+    "name": "Edward Newgate",
+    "subtitle": "Great Pirate",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Light",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Whitebeard Pirates",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FLight-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/great-pirate-edward-newgate",
+    "portrait_url": null
+  },
+  {
+    "name": "Ace & Yamato",
+    "subtitle": "Fire Fist Ogre Princess",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Zoan",
+      "Logia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/fire-fist-ogre-princess-ace-and-yamato",
+    "portrait_url": null
+  },
+  {
+    "name": "Kozuki Momonosuke",
+    "subtitle": "Shogun of Wano",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Zoan",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/shogun-of-wano-kozuki-momonosuke",
+    "portrait_url": null
+  },
+  {
+    "name": "Aramaki",
+    "subtitle": "Navy HQ / Admiral Ryokugyu",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Navy",
+      "Logia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/navy-hq-admiral-ryokugyu-aramaki",
+    "portrait_url": null
+  },
+  {
+    "name": "Otama & Komachiyo",
+    "subtitle": "Land of Wano",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/land-of-wano-otama-and-komachiyo",
+    "portrait_url": null
+  },
+  {
+    "name": "Franky",
+    "subtitle": "Raid on Onigashima",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/raid-on-onigashima-franky",
+    "portrait_url": null
+  },
+  {
+    "name": "Tony Tony Chopper",
+    "subtitle": "Raid on Onigashima",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "Zoan",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/raid-on-onigashima-tony-tony-chopper",
+    "portrait_url": null
+  },
+  {
+    "name": "Black Maria",
+    "subtitle": "Animal Kingdom Pirates / Tobi Roppo",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Zoan",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/animal-kingdom-pirates-tobi-roppo-black-maria",
+    "portrait_url": null
+  },
+  {
+    "name": "Belo Betty",
+    "subtitle": "Revolutionary Army / Captain of the Eastern Forces",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Revolutionary Army",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/revolutionary-army-captain-of-the-eastern-forces-belo-betty",
+    "portrait_url": null
+  },
+  {
+    "name": "Karasu",
+    "subtitle": "Revolutionary Army / Captain of the Northern Forces",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Revolutionary Army",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/revolutionary-army-captain-of-the-northern-forces-karasu",
+    "portrait_url": null
+  },
+  {
+    "name": "Inazuma",
+    "subtitle": "Revolutionary Army / Officer",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Revolutionary Army",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/revolutionary-army-officer-inazuma",
+    "portrait_url": null
+  },
+  {
+    "name": "Hack",
+    "subtitle": "Revolutionary Army / Solider",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Revolutionary Army",
+      "Fish-Man",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/revolutionary-army-solider-hack",
+    "portrait_url": null
+  },
+  {
+    "name": "Queen",
+    "subtitle": "Cyborg",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Zoan",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/cyborg-queen",
+    "portrait_url": null
+  },
+  {
+    "name": "Alber",
+    "subtitle": "Lunarian",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Zoan",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/lunarian-alber",
+    "portrait_url": null
+  },
+  {
+    "name": "Sasaki",
+    "subtitle": "Animal Kingdom Pirates / Tobi Roppo",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Zoan",
+      "Fish-Man",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/animal-kingdom-pirates-tobi-roppo-sasaki",
+    "portrait_url": null
+  },
+  {
+    "name": "Sanji",
+    "subtitle": "Raid on Onigashima",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "New World",
+      "Royalty / Former Royalty"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/raid-on-onigashima-sanji",
+    "portrait_url": null
+  },
+  {
+    "name": "Monkey D. Luffy",
+    "subtitle": "Gear Five",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Defender(s)",
+      "Straw Hat Pirates",
+      "Zoan",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/gear-five-monkey-d-luffy",
+    "portrait_url": null
+  },
+  {
+    "name": "Uta",
+    "subtitle": "Singer of the New Genesis",
+    "rarity": "Limited Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/singer-of-the-new-genesis-uta",
+    "portrait_url": null
+  },
+  {
+    "name": "Killer",
+    "subtitle": "Raid on Onigashima",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "New World",
+      "Worst Generation"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/raid-on-onigashima-killer",
+    "portrait_url": null
+  },
+  {
+    "name": "Kid & Law",
+    "subtitle": "Battle of Monsters on Onigashima",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Attacker(s)",
+      "The Seven Warlords of the Sea / Former Warlords of the Sea",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/battle-of-monsters-on-onigashima-kid-and-law",
+    "portrait_url": null
+  },
+  {
+    "name": "Hody Jones",
+    "subtitle": "New Fish-Man Pirates / Captain",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Captain",
+      "Fish-Man",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/new-fish-man-pirates-captain-hody-jones",
+    "portrait_url": null
+  },
+  {
+    "name": "Neptune",
+    "subtitle": "Ryugu Kingdom / King",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "New World",
+      "Royalty / Former Royalty"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/ryugu-kingdom-king-neptune",
+    "portrait_url": null
+  },
+  {
+    "name": "Caribou",
+    "subtitle": "Caribou Pirates / Captain",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Logia",
+      "Captain",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/caribou-pirates-captain-caribou",
+    "portrait_url": null
+  },
+  {
+    "name": "Vander Decken IX",
+    "subtitle": "Flying Pirates / Captain",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Paramecia",
+      "Captain",
+      "Fish-Man"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/flying-pirates-captain-vander-decken-ix",
+    "portrait_url": null
+  },
+  {
+    "name": "Usopp",
+    "subtitle": "Raid on Onigashima",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "New World",
+      "Long-Range Normal Attacks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/raid-on-onigashima-usopp",
+    "portrait_url": null
+  },
+  {
+    "name": "Nami",
+    "subtitle": "Raid on Onigashima",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/raid-on-onigashima-nami",
+    "portrait_url": null
+  },
+  {
+    "name": "Yamato",
+    "subtitle": "Okuchi-no-Makami",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Zoan",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/okuchi-no-makami-yamato",
+    "portrait_url": null
+  },
+  {
+    "name": "Brook",
+    "subtitle": "Raid on Onigashima",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/raid-on-onigashima-brook",
+    "portrait_url": null
+  },
+  {
+    "name": "Nico Robin",
+    "subtitle": "Raid on Onigashima",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/raid-on-onigashima-nico-robin",
+    "portrait_url": null
+  },
+  {
+    "name": "Ideo",
+    "subtitle": "Triple-X-Level Boxer",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/triple-x-level-boxer-ideo",
+    "portrait_url": null
+  },
+  {
+    "name": "Elizabello II",
+    "subtitle": "The Kingdom of Prodence / King",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "New World",
+      "Royalty / Former Royalty"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-kingdom-of-prodence-king-elizabello-ii",
+    "portrait_url": null
+  },
+  {
+    "name": "Kung Fu Jugon",
+    "subtitle": "Disciple of the Martial Arts",
+    "rarity": "Free 3 Stars",
+    "stars": "3★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "The Grand Line"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/disciple-of-the-martial-arts-kung-fu-jugon",
+    "portrait_url": null
+  },
+  {
+    "name": "Hakuba",
+    "subtitle": "Slicing Winds of Rommel",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Captain",
+      "New World",
+      "Royalty / Former Royalty"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/slicing-winds-of-rommel-hakuba",
+    "portrait_url": null
+  },
+  {
+    "name": "Chin Jao",
+    "subtitle": "Former Happosui Army / 12th Chief",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/former-happosui-army-12th-chief-chin-jao",
+    "portrait_url": null
+  },
+  {
+    "name": "Charoltte Oven",
+    "subtitle": "Big Mom Pirates / Crewmate",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/big-mom-pirates-crewmate-charoltte-oven",
+    "portrait_url": null
+  },
+  {
+    "name": "Pedro",
+    "subtitle": "Leader of the Whale Forest Guardians",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "New World",
+      "Minks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/leader-of-the-whale-forest-guardians-pedro",
+    "portrait_url": null
+  },
+  {
+    "name": "Charlotte Brulee",
+    "subtitle": "Big Mom Pirates / Crewmate",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/big-mom-pirates-crewmate-charlotte-brulee",
+    "portrait_url": null
+  },
+  {
+    "name": "Charlotte Cracker",
+    "subtitle": "Big Mom Pirates / \"Sweet 3\" General",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/big-mom-pirates-sweet-3-general-charlotte-cracker",
+    "portrait_url": null
+  },
+  {
+    "name": "Charlotte Pudding",
+    "subtitle": "First Act as a Married Couple",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/first-act-as-a-married-couple-charlotte-pudding",
+    "portrait_url": null
+  },
+  {
+    "name": "Who`s-Who",
+    "subtitle": "Animal Kingdom Pirates / Tobi Roppo",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Zoan",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/animal-kingdom-pirates-tobi-roppo-whos-who",
+    "portrait_url": null
+  },
+  {
+    "name": "Jinbe",
+    "subtitle": "Raid on Onigashima",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "The Seven Warlords of the Sea / Former Warlords of the Sea",
+      "Straw Hat Pirates",
+      "Fish-Man"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/raid-on-onigashima-jinbe",
+    "portrait_url": null
+  },
+  {
+    "name": "Roronoa Zoro",
+    "subtitle": "Raid on Onigashima",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "New World",
+      "Worst Generation"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/raid-on-onigashima-roronoa-zoro",
+    "portrait_url": null
+  },
+  {
+    "name": "Kaido",
+    "subtitle": "Battle of Monsters on Onigashima",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Zoan",
+      "Captain",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/battle-of-monsters-on-onigashima-kaido",
+    "portrait_url": null
+  },
+  {
+    "name": "Olin the Oiran",
+    "subtitle": "Battle of Monsters on Onigashima",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Defender(s)",
+      "Paramecia",
+      "Captain",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/battle-of-monsters-on-onigashima-olin-the-oiran",
+    "portrait_url": null
+  },
+  {
+    "name": "Adio Suerte",
+    "subtitle": "ODYSSEY",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/odyssey-adio-suerte",
+    "portrait_url": null
+  },
+  {
+    "name": "King",
+    "subtitle": "Animal Kingdom Pirates / Lead Performer",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Zoan",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/animal-kingdom-pirates-lead-performer-king",
+    "portrait_url": null
+  },
+  {
+    "name": "X. Drake",
+    "subtitle": "Top Secret Special Force Captain of \"Sword\"",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Navy",
+      "Zoan",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/top-secret-special-force-captain-of-sword-x-drake",
+    "portrait_url": null
+  },
+  {
+    "name": "Hyogoro",
+    "subtitle": "Hyogoro Family / Big Boss",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/hyogoro-family-big-boss-hyogoro",
+    "portrait_url": null
+  },
+  {
+    "name": "Raizo",
+    "subtitle": "Kozuki Clan / Servant",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/kozuki-clan-servant-raizo",
+    "portrait_url": null
+  },
+  {
+    "name": "Shinobu",
+    "subtitle": "Veteran Kunoichi",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/veteran-kunoichi-shinobu",
+    "portrait_url": null
+  },
+  {
+    "name": "Trebol",
+    "subtitle": "Don Quixote Pirates / Supreme Officer",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Don Quixote Family",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/don-quixote-pirates-supreme-officer-trebol",
+    "portrait_url": null
+  },
+  {
+    "name": "Diamante",
+    "subtitle": "Don Quixote Pirates / Supreme Officer",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Don Quixote Family",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/don-quixote-pirates-supreme-officer-diamante",
+    "portrait_url": null
+  },
+  {
+    "name": "Bellamy",
+    "subtitle": "The Bullet of Dressrosa",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-bullet-of-dressrosa-bellamy",
+    "portrait_url": null
+  },
+  {
+    "name": "Usopp",
+    "subtitle": "FILM RED",
+    "rarity": "Limited Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "New World",
+      "Long-Range Normal Attacks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/film-red-usopp",
+    "portrait_url": null
+  },
+  {
+    "name": "Yasopp",
+    "subtitle": "FILM RED",
+    "rarity": "Limited Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Red-Haired Pirates",
+      "New World",
+      "Long-Range Normal Attacks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/film-red-yasopp",
+    "portrait_url": null
+  },
+  {
+    "name": "Tony Tony Chopper",
+    "subtitle": "FILM RED",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Straw Hat Pirates",
+      "Zoan",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/film-red-tony-tony-chopper",
+    "portrait_url": null
+  },
+  {
+    "name": "Nami",
+    "subtitle": "FILM RED",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "New World",
+      "Long-Range Normal Attacks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/film-red-nami",
+    "portrait_url": null
+  },
+  {
+    "name": "Ben Beckman",
+    "subtitle": "FILM RED",
+    "rarity": "Limited Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Red-Haired Pirates",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/film-red-ben-beckman",
+    "portrait_url": null
+  },
+  {
+    "name": "Shanks",
+    "subtitle": "FILM RED",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Defender(s)",
+      "East Blue",
+      "Red-Haired Pirates",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/film-red-shanks",
+    "portrait_url": null
+  },
+  {
+    "name": "Monkey D. Luffy",
+    "subtitle": "FILM RED",
+    "rarity": "",
+    "stars": "3★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/film-red-monkey-d-luffy",
+    "portrait_url": null
+  },
+  {
+    "name": "Uta",
+    "subtitle": "FILM RED",
+    "rarity": "Limited Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/film-red-uta",
+    "portrait_url": null
+  },
+  {
+    "name": "Zephyr",
+    "subtitle": "FILM Z",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "New World",
+      "Navy Admiral / Former Navy Admiral"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/film-z-zephyr",
+    "portrait_url": null
+  },
+  {
+    "name": "Gild Tesoro",
+    "subtitle": "FILM GOLD",
+    "rarity": "Limited Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/film-gold-gild-tesoro",
+    "portrait_url": null
+  },
+  {
+    "name": "Shiki",
+    "subtitle": "FILM STRONG WORLD",
+    "rarity": "Limited Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Paramecia",
+      "Captain",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/film-strong-world-shiki",
+    "portrait_url": null
+  },
+  {
+    "name": "Boa Hancock",
+    "subtitle": "STAMPEDE",
+    "rarity": "Limited Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "The Seven Warlords of the Sea / Former Warlords of the Sea",
+      "Kuja Pirates",
+      "Paramecia"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/stampede-boa-hancock",
+    "portrait_url": null
+  },
+  {
+    "name": "Marco",
+    "subtitle": "Land of Wano",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Whitebeard Pirates",
+      "Zoan",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/land-of-wano-marco",
+    "portrait_url": null
+  },
+  {
+    "name": "Charlotte Perospero",
+    "subtitle": "Big Mom Pirates / Crewmate",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/big-mom-pirates-crewmate-charlotte-perospero",
+    "portrait_url": null
+  },
+  {
+    "name": "Ulti",
+    "subtitle": "Animal Kingdom Pirates / Tobi Roppo",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Zoan",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/animal-kingdom-pirates-tobi-roppo-ulti",
+    "portrait_url": null
+  },
+  {
+    "name": "Page One",
+    "subtitle": "Animal Kingdom Pirates / Tobi Roppo",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Zoan",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/animal-kingdom-pirates-tobi-roppo-page-one",
+    "portrait_url": null
+  },
+  {
+    "name": "Wyper",
+    "subtitle": "Shandian Warrior",
+    "rarity": "Free 3 Stars",
+    "stars": "3★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "The Grand Line",
+      "Long-Range Normal Attacks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/shandian-warrior-wyper",
+    "portrait_url": null
+  },
+  {
+    "name": "Franosuke",
+    "subtitle": "Land of Wano",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/land-of-wano-franosuke",
+    "portrait_url": null
+  },
+  {
+    "name": "Usohachi",
+    "subtitle": "Land of Wano",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Straw Hat Pirates",
+      "New World",
+      "Long-Range Normal Attacks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/land-of-wano-usohachi",
+    "portrait_url": null
+  },
+  {
+    "name": "Shiryu",
+    "subtitle": "Blackbeard Pirates / Former Head Jailer of Impel Down",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "The Grand Line",
+      "Blackbeard Pirates"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/blackbeard-pirates-former-head-jailer-of-impel-down-shiryu",
+    "portrait_url": null
+  },
+  {
+    "name": "Jozu",
+    "subtitle": "Whitebeard Pirates / 3rd Division Commander",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Whitebeard Pirates",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/whitebeard-pirates-3rd-division-commander-jozu",
+    "portrait_url": null
+  },
+  {
+    "name": "Vista",
+    "subtitle": "Whitebeard Pirates / 5th Division Commander",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Attacker(s)",
+      "Whitebeard Pirates",
+      "Logia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/whitebeard-pirates-5th-division-commander-vista",
+    "portrait_url": null
+  },
+  {
+    "name": "Jesus Burgess",
+    "subtitle": "Blackbeard Pirates / Helsman \"Champ\"",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "The Grand Line",
+      "Blackbeard Pirates"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/blackbeard-pirates-helsman-champ-jesus-burgess",
+    "portrait_url": null
+  },
+  {
+    "name": "Soba Mask",
+    "subtitle": "Stealth Black",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "New World",
+      "Germa 66"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/stealth-black-soba-mask",
+    "portrait_url": null
+  },
+  {
+    "name": "Vinsmoke Judge",
+    "subtitle": "Germa 66 / Generalissimo",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "New World",
+      "Germa 66",
+      "Royalty / Former Royalty"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/germa-66-generalissimo-vinsmoke-judge",
+    "portrait_url": null
+  },
+  {
+    "name": "Monkey D. Luffy",
+    "subtitle": "Man Who Dreams of Becoming the King of the Pirates",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/man-who-dreams-of-becoming-the-king-of-the-pirates-monkey-d-luffy",
+    "portrait_url": null
+  },
+  {
+    "name": "Kaido",
+    "subtitle": "The Strongest Creature Alive",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Zoan",
+      "Captain",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-strongest-creature-alive-kaido",
+    "portrait_url": null
+  },
+  {
+    "name": "Queen",
+    "subtitle": "Animal Kingdom Pirates / Lead Performer",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Zoan",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/animal-kingdom-pirates-lead-performer-queen",
+    "portrait_url": null
+  },
+  {
+    "name": "Jack",
+    "subtitle": "Animal Kingdom Pirates / Lead Performer",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Zoan",
+      "Fish-Man",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/animal-kingdom-pirates-lead-performer-jack",
+    "portrait_url": null
+  },
+  {
+    "name": "Yamato",
+    "subtitle": "Kaido`s Son",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Zoan",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/kaidos-son-yamato",
+    "portrait_url": null
+  },
+  {
+    "name": "Izo",
+    "subtitle": "Former Whitebeard Pirates / 16th Division Commander",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Whitebeard Pirates",
+      "New World",
+      "Long-Range Normal Attacks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/former-whitebeard-pirates-16th-division-commander-izo",
+    "portrait_url": null
+  },
+  {
+    "name": "Kurozumi Kanjuro",
+    "subtitle": "Kurozumi Spy",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/kurozumi-spy-kurozumi-kanjuro",
+    "portrait_url": null
+  },
+  {
+    "name": "Silvers Rayleigh",
+    "subtitle": "Roger Pirates / First Mate",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Roger Pirates / Ex-Roger Pirates"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/roger-pirates-first-mate-silvers-rayleigh",
+    "portrait_url": null
+  },
+  {
+    "name": "Jinbe",
+    "subtitle": "Whole Cake Island",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "The Seven Warlords of the Sea / Former Warlords of the Sea",
+      "Captain",
+      "Fish-Man"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/whole-cake-island-jinbe",
+    "portrait_url": null
+  },
+  {
+    "name": "Charlotte Pudding",
+    "subtitle": "Big Mom Pirates / Crewmate",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/big-mom-pirates-crewmate-charlotte-pudding",
+    "portrait_url": null
+  },
+  {
+    "name": "Brook",
+    "subtitle": "Whole Cake Island",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/whole-cake-island-brook",
+    "portrait_url": null
+  },
+  {
+    "name": "Nami",
+    "subtitle": "Whole Cake Island",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Straw Hat Pirates",
+      "New World",
+      "Long-Range Normal Attacks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/whole-cake-island-nami",
+    "portrait_url": null
+  },
+  {
+    "name": "Monet",
+    "subtitle": "Don Quixote Pirates / Officer",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Runner(s)",
+      "Don Quixote Family",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/don-quixote-pirates-officer-monet",
+    "portrait_url": null
+  },
+  {
+    "name": "Vergo",
+    "subtitle": "Don Quixote Pirates / Supreme Officer",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Navy",
+      "Don Quixote Family",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/don-quixote-pirates-supreme-officer-vergo",
+    "portrait_url": null
+  },
+  {
+    "name": "Sugar",
+    "subtitle": "Don Quixote Pirates / Special Officer",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Don Quixote Family",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/don-quixote-pirates-special-officer-sugar",
+    "portrait_url": null
+  },
+  {
+    "name": "Don Quixote Doflamingo",
+    "subtitle": "Don Quixote Pirates / Captain",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Don Quixote Family",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/don-quixote-pirates-captain-don-quixote-doflamingo",
+    "portrait_url": null
+  },
+  {
+    "name": "Señor Pink",
+    "subtitle": "Don Quixote Pirates / Officer",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Don Quixote Family",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/don-quixote-pirates-officer-senor-pink",
+    "portrait_url": null
+  },
+  {
+    "name": "Baby 5",
+    "subtitle": "Don Quixote Pirates / Servant Assassin",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Don Quixote Family",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/don-quixote-pirates-servant-assassin-baby-5",
+    "portrait_url": null
+  },
+  {
+    "name": "Sentomaru",
+    "subtitle": "Navy HQ / Science Team Captain",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Navy",
+      "The Grand Line"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/navy-hq-science-team-captain-sentomaru",
+    "portrait_url": null
+  },
+  {
+    "name": "Koby",
+    "subtitle": "Navy HQ / Master Chief Petty Officer",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Navy",
+      "The Grand Line"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/navy-hq-master-chief-petty-officer-koby",
+    "portrait_url": null
+  },
+  {
+    "name": "Sakazuki",
+    "subtitle": "Navy HQ / Fleet Admiral Akainu",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Navy",
+      "Logia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/navy-hq-fleet-admiral-akainu-sakazuki",
+    "portrait_url": null
+  },
+  {
+    "name": "Bonekichi",
+    "subtitle": "Land of Wano",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/land-of-wano-bonekichi",
+    "portrait_url": null
+  },
+  {
+    "name": "Orobi",
+    "subtitle": "Land of Wano",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/land-of-wano-orobi",
+    "portrait_url": null
+  },
+  {
+    "name": "Vivi & Karoo",
+    "subtitle": "Princess and Loyal Partner",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "The Grand Line",
+      "Alabasta Kingdom"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/princess-and-loyal-partner-vivi-and-karoo",
+    "portrait_url": null
+  },
+  {
+    "name": "Pell",
+    "subtitle": "Lieutenant Royal Guard of Alabasta",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Zoan",
+      "Power users",
+      "The Grand Line"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/lieutenant-royal-guard-of-alabasta-pell",
+    "portrait_url": null
+  },
+  {
+    "name": "Ms. Goldenweek",
+    "subtitle": "Baroque Works / Officer Agent",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Baroque Works",
+      "The Grand Line"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/baroque-works-officer-agent-ms-goldenweek",
+    "portrait_url": null
+  },
+  {
+    "name": "Mr. 3",
+    "subtitle": "Baroque Works / Officer Agent",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Runner(s)",
+      "Baroque Works",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/baroque-works-officer-agent-mr-3",
+    "portrait_url": null
+  },
+  {
+    "name": "Trafalgar Law",
+    "subtitle": "Raid on Onigashima",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "The Seven Warlords of the Sea / Former Warlords of the Sea",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/raid-on-onigashima-trafalgar-law",
+    "portrait_url": null
+  },
+  {
+    "name": "Eustass Kid",
+    "subtitle": "Raid on Onigashima",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Paramecia",
+      "Captain",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/raid-on-onigashima-eustass-kid",
+    "portrait_url": null
+  },
+  {
+    "name": "Bon Clay, aka Mr. 2",
+    "subtitle": "Impel Down / Prisoner",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Paramecia",
+      "Power users",
+      "The Grand Line"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/impel-down-prisoner-bon-clay-aka-mr-2",
+    "portrait_url": null
+  },
+  {
+    "name": "Monkey D. Luffy",
+    "subtitle": "Raid on Onigashima",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/raid-on-onigashima-monkey-d-luffy",
+    "portrait_url": null
+  },
+  {
+    "name": "Nico Robin",
+    "subtitle": "Enies Lobby",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/enies-lobby-nico-robin",
+    "portrait_url": null
+  },
+  {
+    "name": "Tony Tony Chopper",
+    "subtitle": "Monster Point",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "Zoan",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/monster-point-tony-tony-chopper",
+    "portrait_url": null
+  },
+  {
+    "name": "Cat Viper",
+    "subtitle": "King of the Night",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "New World",
+      "Kozuki Clan / Kozuki Clan Servant",
+      "Minks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/king-of-the-night-cat-viper",
+    "portrait_url": null
+  },
+  {
+    "name": "Dogstorm",
+    "subtitle": "King of the Day",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "New World",
+      "Kozuki Clan / Kozuki Clan Servant",
+      "Minks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/king-of-the-day-dogstorm",
+    "portrait_url": null
+  },
+  {
+    "name": "Gaimon",
+    "subtitle": "The Guardian of the Forest",
+    "rarity": "Free 3 Stars",
+    "stars": "3★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "East Blue"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-guardian-of-the-forest-gaimon",
+    "portrait_url": null
+  },
+  {
+    "name": "General Franky",
+    "subtitle": "Iron Pirate",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Straw Hat Pirates",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/iron-pirate-general-franky",
+    "portrait_url": null
+  },
+  {
+    "name": "God Usopp",
+    "subtitle": "Savior",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "New World",
+      "Long-Range Normal Attacks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/savior-god-usopp",
+    "portrait_url": null
+  },
+  {
+    "name": "Koala",
+    "subtitle": "Revolutionary Army / Officer",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Revolutionary Army",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/revolutionary-army-officer-koala",
+    "portrait_url": null
+  },
+  {
+    "name": "Carrot",
+    "subtitle": "Minks",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "New World",
+      "Minks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/minks-carrot",
+    "portrait_url": null
+  },
+  {
+    "name": "Edward Newgate",
+    "subtitle": "Roger`s Rival",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Whitebeard Pirates",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/rogers-rival-edward-newgate",
+    "portrait_url": null
+  },
+  {
+    "name": "Monkey D. Garp",
+    "subtitle": "Hero of the Navy",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Navy"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/hero-of-the-navy-monkey-d-garp",
+    "portrait_url": null
+  },
+  {
+    "name": "Ashura Doji",
+    "subtitle": "Kozuki Clan / Servant",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "New World",
+      "Kozuki Clan / Kozuki Clan Servant"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/kozuki-clan-servant-ashura-doji",
+    "portrait_url": null
+  },
+  {
+    "name": "Napping Kyoshiro",
+    "subtitle": "Kyoshiro Family / Boss",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/kyoshiro-family-boss-napping-kyoshiro",
+    "portrait_url": null
+  },
+  {
+    "name": "Gol D. Roger",
+    "subtitle": "King of the Pirates",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Captain",
+      "Roger Pirates / Ex-Roger Pirates"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/king-of-the-pirates-gol-d-roger",
+    "portrait_url": null
+  },
+  {
+    "name": "Chopperemon",
+    "subtitle": "Land of Wano",
+    "rarity": "Free 3 Stars",
+    "stars": "3★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "Zoan",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/land-of-wano-chopperemon",
+    "portrait_url": null
+  },
+  {
+    "name": "Kawamatsu",
+    "subtitle": "Kozuki Clan / Servant",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Fish-Man",
+      "New World",
+      "Kozuki Clan / Kozuki Clan Servant"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/kozuki-clan-servant-kawamatsu",
+    "portrait_url": null
+  },
+  {
+    "name": "Kikunojo",
+    "subtitle": "Most Handsome Swordman in the Land of Wano",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "New World",
+      "Kozuki Clan / Kozuki Clan Servant"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/most-handsome-swordman-in-the-land-of-wano-kikunojo",
+    "portrait_url": null
+  },
+  {
+    "name": "Kozuki Oden",
+    "subtitle": "Daimyo of Kuri",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Whitebeard Pirates",
+      "Kozuki Clan / Kozuki Clan Servant",
+      "Roger Pirates / Ex-Roger Pirates"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/daimyo-of-kuri-kozuki-oden",
+    "portrait_url": null
+  },
+  {
+    "name": "Portgaz D. Ace",
+    "subtitle": "Fire Fist",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Whitebeard Pirates",
+      "Logia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/fire-fist-portgaz-d-ace",
+    "portrait_url": null
+  },
+  {
+    "name": "Sanji",
+    "subtitle": "Royal Wedding",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "New World",
+      "Royalty / Former Royalty"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/royal-wedding-sanji",
+    "portrait_url": null
+  },
+  {
+    "name": "Roronoa Zoro",
+    "subtitle": "The Billion-Fold World Trichiliocosm",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "New World",
+      "Worst Generation"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-billion-fold-world-trichiliocosm-roronoa-zoro",
+    "portrait_url": null
+  },
+  {
+    "name": "Monkey D. Luffy",
+    "subtitle": "Luffy & Law Pirate Alliance",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/luffy-and-law-pirate-alliance-monkey-d-luffy",
+    "portrait_url": null
+  },
+  {
+    "name": "Kin'emon",
+    "subtitle": "Kozuki Clan / Servant",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/kozuki-clan-servant-kinemon",
+    "portrait_url": null
+  },
+  {
+    "name": "Kuzan",
+    "subtitle": "Former Navy Admiral",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Logia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/former-navy-admiral-kuzan",
+    "portrait_url": null
+  },
+  {
+    "name": "Smoker (Chambres)",
+    "subtitle": "Punk Hazard",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Navy",
+      "New World",
+      "Chambres"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/punk-hazard-smoker-chambres",
+    "portrait_url": null
+  },
+  {
+    "name": "Gecko Moria",
+    "subtitle": "The Parmount War",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "The Seven Warlords of the Sea / Former Warlords of the Sea",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-parmount-war-gecko-moria",
+    "portrait_url": null
+  },
+  {
+    "name": "Crocodile",
+    "subtitle": "The Parmount War",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "The Seven Warlords of the Sea / Former Warlords of the Sea",
+      "Logia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-parmount-war-crocodile",
+    "portrait_url": null
+  },
+  {
+    "name": "Perona",
+    "subtitle": "Ghost Princess",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/ghost-princess-perona",
+    "portrait_url": null
+  },
+  {
+    "name": "Boa Hancock",
+    "subtitle": "Kuja Pirates / Captain",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "The Seven Warlords of the Sea / Former Warlords of the Sea",
+      "Kuja Pirates",
+      "Paramecia"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/kuja-pirates-captain-boa-hancock",
+    "portrait_url": null
+  },
+  {
+    "name": "Dracule Mihawk",
+    "subtitle": "The Greatest Swordman in the World",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "The Seven Warlords of the Sea / Former Warlords of the Sea",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-greatest-swordman-in-the-world-dracule-mihawk",
+    "portrait_url": null
+  },
+  {
+    "name": "Caesar Clown",
+    "subtitle": "Former World Government / Science Division Member",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Logia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/former-world-government-science-division-member-caesar-clown",
+    "portrait_url": null
+  },
+  {
+    "name": "Buggy",
+    "subtitle": "The Seven Warlords of the Sea",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "The Seven Warlords of the Sea / Former Warlords of the Sea",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-seven-warlords-of-the-sea-buggy",
+    "portrait_url": null
+  },
+  {
+    "name": "Charlotte Katakuri",
+    "subtitle": "Superhuman",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/superhuman-charlotte-katakuri",
+    "portrait_url": null
+  },
+  {
+    "name": "Charlotte Linlin",
+    "subtitle": "Hunger Pangs",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Paramecia",
+      "Captain",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/hunger-pangs-charlotte-linlin",
+    "portrait_url": null
+  },
+  {
+    "name": "Corazon",
+    "subtitle": "Don Quixote Family / Officer",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Navy",
+      "Don Quixote Family",
+      "Paramecia"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/don-quixote-family-officer-corazon",
+    "portrait_url": null
+  },
+  {
+    "name": "Rebecca",
+    "subtitle": "The Undefeated Woman",
+    "rarity": "Free 3 Stars",
+    "stars": "3★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "New World",
+      "Royalty / Former Royalty"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-undefeated-woman-rebecca",
+    "portrait_url": null
+  },
+  {
+    "name": "Trafalgar Law",
+    "subtitle": "Surgeon of Death",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "The Seven Warlords of the Sea / Former Warlords of the Sea",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/surgeon-of-death-trafalgar-law",
+    "portrait_url": null
+  },
+  {
+    "name": "Eneru",
+    "subtitle": "Amaru",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Logia",
+      "Power users",
+      "The Grand Line"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/amaru-eneru",
+    "portrait_url": null
+  },
+  {
+    "name": "Rob Lucci",
+    "subtitle": "CP0",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Cipher Pol",
+      "Zoan",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/cp0-rob-lucci",
+    "portrait_url": null
+  },
+  {
+    "name": "Luffytaro",
+    "subtitle": "Land of Wano",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/land-of-wano-luffytaro",
+    "portrait_url": null
+  },
+  {
+    "name": "Onami",
+    "subtitle": "Land of Wano",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/land-of-wano-onami",
+    "portrait_url": null
+  },
+  {
+    "name": "X.Drake",
+    "subtitle": "Land of Wano",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Zoan",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/land-of-wano-x-drake",
+    "portrait_url": null
+  },
+  {
+    "name": "Eustass Kid",
+    "subtitle": "New World",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Paramecia",
+      "Captain",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/new-world-eustass-kid",
+    "portrait_url": null
+  },
+  {
+    "name": "Killer",
+    "subtitle": "Kid Pirates / Fighter",
+    "rarity": "Free 3 Stars",
+    "stars": "3★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "New World",
+      "Worst Generation"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/kid-pirates-fighter-killer",
+    "portrait_url": null
+  },
+  {
+    "name": "Scratchmen Apoo",
+    "subtitle": "On-Air Pirates / Captain",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Paramecia",
+      "Captain",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/on-air-pirates-captain-scratchmen-apoo",
+    "portrait_url": null
+  },
+  {
+    "name": "Urouge",
+    "subtitle": "Fallen Monk Pirates / Captain \"Mad Monk\"",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Captain",
+      "New World",
+      "Worst Generation"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/fallen-monk-pirates-captain-mad-monk-urouge",
+    "portrait_url": null
+  },
+  {
+    "name": "Sengoku",
+    "subtitle": "Navy HQ / Fleet Admiral",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Navy",
+      "Zoan",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/navy-hq-fleet-admiral-sengoku",
+    "portrait_url": null
+  },
+  {
+    "name": "Silvers Rayleigh",
+    "subtitle": "The Pirate King`s Right Arm The Dark King",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "The Grand Line",
+      "Roger Pirates / Ex-Roger Pirates"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-pirate-kings-right-arm-the-dark-king-silvers-rayleigh",
+    "portrait_url": null
+  },
+  {
+    "name": "Monkey D. Luffy",
+    "subtitle": "Gear Four / Snakeman",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/gear-four-snakeman-monkey-d-luffy",
+    "portrait_url": null
+  },
+  {
+    "name": "Emporio Ivankov",
+    "subtitle": "Revolutoonary Army",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Revolutionary Army",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/revolutoonary-army-emporio-ivankov",
+    "portrait_url": null
+  },
+  {
+    "name": "Magellan",
+    "subtitle": "Impel Down / Warden",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Paramecia",
+      "Power users",
+      "The Grand Line"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/impel-down-warden-magellan",
+    "portrait_url": null
+  },
+  {
+    "name": "Smoker",
+    "subtitle": "Gerand Line Navel Base 5 / Vice Admiral",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Navy",
+      "Logia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/gerand-line-navel-base-5-vice-admiral-smoker",
+    "portrait_url": null
+  },
+  {
+    "name": "Tashigi",
+    "subtitle": "Grand Line Naval Base 5 / Captain",
+    "rarity": "Free 3 Stars",
+    "stars": "3★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Navy",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/grand-line-naval-base-5-captain-tashigi",
+    "portrait_url": null
+  },
+  {
+    "name": "Hina",
+    "subtitle": "Navy HQ / Rear Admiral",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Navy",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/navy-hq-rear-admiral-hina",
+    "portrait_url": null
+  },
+  {
+    "name": "Douglas Bullet",
+    "subtitle": "STAMPEDE",
+    "rarity": "Limited Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/stampede-douglas-bullet",
+    "portrait_url": null
+  },
+  {
+    "name": "Sniper King",
+    "subtitle": "The King of the Snipers",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "The Grand Line",
+      "Long-Range Normal Attacks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-king-of-the-snipers-sniper-king",
+    "portrait_url": null
+  },
+  {
+    "name": "Kaku",
+    "subtitle": "CP9",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Cipher Pol",
+      "Zoan",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/cp9-kaku",
+    "portrait_url": null
+  },
+  {
+    "name": "Rob Lucci",
+    "subtitle": "CP9",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Cipher Pol",
+      "Zoan",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/cp9-rob-lucci",
+    "portrait_url": null
+  },
+  {
+    "name": "Sabo",
+    "subtitle": "Luffy`s Brother",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Revolutionary Army",
+      "Logia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/luffys-brother-sabo",
+    "portrait_url": null
+  },
+  {
+    "name": "Issho",
+    "subtitle": "Navy HQ / Admiral Fujitora",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Navy",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/navy-hq-admiral-fujitora-issho",
+    "portrait_url": null
+  },
+  {
+    "name": "Cavendish",
+    "subtitle": "Beautiful Pirates / Captain",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Captain",
+      "New World",
+      "Royalty / Former Royalty"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/beautiful-pirates-captain-cavendish",
+    "portrait_url": null
+  },
+  {
+    "name": "Bartolomeo",
+    "subtitle": "Barto Club / Captain",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Paramecia",
+      "Captain",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/barto-club-captain-bartolomeo",
+    "portrait_url": null
+  },
+  {
+    "name": "Monkey D. Luffy",
+    "subtitle": "The Parmount War",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-parmount-war-monkey-d-luffy",
+    "portrait_url": null
+  },
+  {
+    "name": "Shanks",
+    "subtitle": "The Four Emperors",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Red-Haired Pirates",
+      "Captain",
+      "The Grand Line"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-four-emperors-shanks",
+    "portrait_url": null
+  },
+  {
+    "name": "Marshall D. Teach",
+    "subtitle": "The Seven Warlords of the Sea",
+    "rarity": "Extreme",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "The Seven Warlords of the Sea / Former Warlords of the Sea",
+      "Logia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-seven-warlords-of-the-sea-marshall-d-teach",
+    "portrait_url": null
+  },
+  {
+    "name": "Monkey D. Garp",
+    "subtitle": "Navy HQ / Vice Admiral",
+    "rarity": "Free 3 Stars",
+    "stars": "3★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Navy",
+      "The Grand Line"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/navy-hq-vice-admiral-monkey-d-garp",
+    "portrait_url": null
+  },
+  {
+    "name": "Marco",
+    "subtitle": "Whitebeard Pirates / 1st Division Commander",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Whitebeard Pirates",
+      "Zoan",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/whitebeard-pirates-1st-division-commander-marco",
+    "portrait_url": null
+  },
+  {
+    "name": "Portgaz D. Ace",
+    "subtitle": "Son of the King of the Pirates",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Whitebeard Pirates",
+      "Logia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/son-of-the-king-of-the-pirates-portgaz-d-ace",
+    "portrait_url": null
+  },
+  {
+    "name": "Kaido",
+    "subtitle": "Animal Kingdom Pirates / Supreme Commander",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Zoan",
+      "Captain",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/animal-kingdom-pirates-supreme-commander-kaido",
+    "portrait_url": null
+  },
+  {
+    "name": "Nico Robin",
+    "subtitle": "Happy Holiday",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/happy-holiday-nico-robin",
+    "portrait_url": null
+  },
+  {
+    "name": "Franky",
+    "subtitle": "Happy Holiday",
+    "rarity": "Free 3 Stars",
+    "stars": "3★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/happy-holiday-franky",
+    "portrait_url": null
+  },
+  {
+    "name": "Tony Tony Chopper",
+    "subtitle": "Happy Holiday",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "Zoan",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/happy-holiday-tony-tony-chopper",
+    "portrait_url": null
+  },
+  {
+    "name": "Bartholomew Kuma",
+    "subtitle": "The Seven Warlords of the Sea",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "The Seven Warlords of the Sea / Former Warlords of the Sea",
+      "Revolutionary Army",
+      "Paramecia"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-seven-warlords-of-the-sea-bartholomew-kuma",
+    "portrait_url": null
+  },
+  {
+    "name": "Vinsmoke Reiju",
+    "subtitle": "Germa 66",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "New World",
+      "Germa 66",
+      "Royalty / Former Royalty"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/germa-66-vinsmoke-reiju",
+    "portrait_url": null
+  },
+  {
+    "name": "Capone Bege",
+    "subtitle": "Firetank Pirates / Godfather",
+    "rarity": "Free 3 Stars",
+    "stars": "3★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Paramecia",
+      "Captain",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/firetank-pirates-godfather-capone-bege",
+    "portrait_url": null
+  },
+  {
+    "name": "Sanji",
+    "subtitle": "Whole Cake Island",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "New World",
+      "Royalty / Former Royalty"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/whole-cake-island-sanji",
+    "portrait_url": null
+  },
+  {
+    "name": "Jinbe",
+    "subtitle": "The Seven Warlords of the Sea",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "The Seven Warlords of the Sea / Former Warlords of the Sea",
+      "Captain",
+      "Fish-Man"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-seven-warlords-of-the-sea-jinbe",
+    "portrait_url": null
+  },
+  {
+    "name": "Nami",
+    "subtitle": "Imprisoned Bride",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "The Grand Line",
+      "Long-Range Normal Attacks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/imprisoned-bride-nami",
+    "portrait_url": null
+  },
+  {
+    "name": "Perona",
+    "subtitle": "Thriller Park Pirates / Mysterious Four",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Paramecia",
+      "Power users",
+      "The Grand Line"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/thriller-park-pirates-mysterious-four-perona",
+    "portrait_url": null
+  },
+  {
+    "name": "Ryuma",
+    "subtitle": "Legendary Samurai Zombie",
+    "rarity": "Free 3 Stars",
+    "stars": "3★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "The Grand Line"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/legendary-samurai-zombie-ryuma",
+    "portrait_url": null
+  },
+  {
+    "name": "Nightmare Luffy",
+    "subtitle": "Ray of Hope",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/ray-of-hope-nightmare-luffy",
+    "portrait_url": null
+  },
+  {
+    "name": "Charlotte Katakuri",
+    "subtitle": "Big Mom Pirates / \"Sweet 3\" General",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/big-mom-pirates-sweet-3-general-charlotte-katakuri",
+    "portrait_url": null
+  },
+  {
+    "name": "Charlotte Linlin",
+    "subtitle": "Big Mom Pirates / Captain",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Attacker(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/big-mom-pirates-captain-charlotte-linlin",
+    "portrait_url": null
+  },
+  {
+    "name": "Zorojuro",
+    "subtitle": "Land of Wano",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "New World",
+      "Worst Generation"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/land-of-wano-zorojuro",
+    "portrait_url": null
+  },
+  {
+    "name": "Basil Hawkins",
+    "subtitle": "Land of Wano",
+    "rarity": "Free 3 Stars",
+    "stars": "3★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Paramecia",
+      "Power users",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/land-of-wano-basil-hawkins",
+    "portrait_url": null
+  },
+  {
+    "name": "Trafalgar Law",
+    "subtitle": "Land of Wano",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "The Seven Warlords of the Sea / Former Warlords of the Sea",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/land-of-wano-trafalgar-law",
+    "portrait_url": null
+  },
+  {
+    "name": "Don Quixote Doflamingo",
+    "subtitle": "The Seven Warlords of the Sea",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "The Seven Warlords of the Sea / Former Warlords of the Sea",
+      "Don Quixote Family",
+      "Paramecia"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-seven-warlords-of-the-sea-don-quixote-doflamingo",
+    "portrait_url": null
+  },
+  {
+    "name": "Monkey D. Luffy",
+    "subtitle": "Gear Four / Bounceman",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/gear-four-bounceman-monkey-d-luffy",
+    "portrait_url": null
+  },
+  {
+    "name": "Sabo",
+    "subtitle": "STAMPEDE",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Revolutionary Army",
+      "Logia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/stampede-sabo",
+    "portrait_url": null
+  },
+  {
+    "name": "Monkey D. Luffy",
+    "subtitle": "STAMPEDE",
+    "rarity": "",
+    "stars": "3★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/stampede-monkey-d-luffy",
+    "portrait_url": null
+  },
+  {
+    "name": "Smoker",
+    "subtitle": "STAMPEDE",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Navy",
+      "Logia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/stampede-smoker",
+    "portrait_url": null
+  },
+  {
+    "name": "Portgaz D. Ace",
+    "subtitle": "Navy Infiltrator",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Whitebeard Pirates",
+      "Logia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/navy-infiltrator-portgaz-d-ace",
+    "portrait_url": null
+  },
+  {
+    "name": "Crocodile",
+    "subtitle": "Impel Down / Prisoner",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "The Seven Warlords of the Sea / Former Warlords of the Sea",
+      "Logia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/impel-down-prisoner-crocodile",
+    "portrait_url": null
+  },
+  {
+    "name": "Boa Hancock",
+    "subtitle": "Bikini",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "The Seven Warlords of the Sea / Former Warlords of the Sea",
+      "Kuja Pirates",
+      "Paramecia"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/bikini-boa-hancock",
+    "portrait_url": null
+  },
+  {
+    "name": "Nami",
+    "subtitle": "Bikini",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "New World",
+      "Long-Range Normal Attacks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/bikini-nami",
+    "portrait_url": null
+  },
+  {
+    "name": "Franky",
+    "subtitle": "2 Years Later / Ship Carpenter",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Straw Hat Pirates",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/2-years-later-ship-carpenter-franky",
+    "portrait_url": null
+  },
+  {
+    "name": "Brook",
+    "subtitle": "2 Years Later / Musician",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/2-years-later-musician-brook",
+    "portrait_url": null
+  },
+  {
+    "name": "Nico Robin",
+    "subtitle": "2 Years Later / Archaeologist",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/2-years-later-archaeologist-nico-robin",
+    "portrait_url": null
+  },
+  {
+    "name": "Tony Tony Chopper",
+    "subtitle": "2 Years Later / Doctor",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "Zoan",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/2-years-later-doctor-tony-tony-chopper",
+    "portrait_url": null
+  },
+  {
+    "name": "Borsalino",
+    "subtitle": "Navy HQ / Admiral Kizaru",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Navy",
+      "Logia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/navy-hq-admiral-kizaru-borsalino",
+    "portrait_url": null
+  },
+  {
+    "name": "Jewelry Bonney",
+    "subtitle": "Bonney Pirates / Captain",
+    "rarity": "Free 3 Stars",
+    "stars": "3★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Paramecia",
+      "Captain",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/bonney-pirates-captain-jewelry-bonney",
+    "portrait_url": null
+  },
+  {
+    "name": "Usopp",
+    "subtitle": "2 Years Later / Sharp Shooter",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "New World",
+      "Long-Range Normal Attacks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/2-years-later-sharp-shooter-usopp",
+    "portrait_url": null
+  },
+  {
+    "name": "Sanji",
+    "subtitle": "2 Years Later / Cook",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Defender(s)",
+      "Straw Hat Pirates",
+      "New World",
+      "Worst Generation"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/2-years-later-cook-sanji",
+    "portrait_url": null
+  },
+  {
+    "name": "Sabo",
+    "subtitle": "Revolutoonary Army / Chief of Staff",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Revolutionary Army",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/revolutoonary-army-chief-of-staff-sabo",
+    "portrait_url": null
+  },
+  {
+    "name": "Nami",
+    "subtitle": "2 Years Later / Navigator",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "New World"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/2-years-later-navigator-nami",
+    "portrait_url": null
+  },
+  {
+    "name": "Roronoa Zoro",
+    "subtitle": "2 Years Later / Combatant",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Straw Hat Pirates",
+      "New World",
+      "Worst Generation"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/2-years-later-combatant-roronoa-zoro",
+    "portrait_url": null
+  },
+  {
+    "name": "Nefeltari Vivi",
+    "subtitle": "Alabasta / Princess",
+    "rarity": "Free 3 Stars",
+    "stars": "3★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "The Grand Line",
+      "Alabasta Kingdom",
+      "Royalty / Former Royalty"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/alabasta-princess-nefeltari-vivi",
+    "portrait_url": null
+  },
+  {
+    "name": "Monkey D. Luffy",
+    "subtitle": "2 Years Later / Captain",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/2-years-later-captain-monkey-d-luffy",
+    "portrait_url": null
+  },
+  {
+    "name": "Trafalger Law",
+    "subtitle": "Heart Pirates / Captain",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Paramecia",
+      "Captain",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/heart-pirates-captain-trafalger-law",
+    "portrait_url": null
+  },
+  {
+    "name": "Eustass Kid",
+    "subtitle": "Kid Pirates / Captain",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Paramecia",
+      "Captain",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/kid-pirates-captain-eustass-kid",
+    "portrait_url": null
+  },
+  {
+    "name": "Bellamy",
+    "subtitle": "Bellamy Pirates / Captain",
+    "rarity": "Free 3 Stars",
+    "stars": "3★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Paramecia",
+      "Captain",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/bellamy-pirates-captain-bellamy",
+    "portrait_url": null
+  },
+  {
+    "name": "Tony Tony Chopper",
+    "subtitle": "Arm Point",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "Zoan",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/arm-point-tony-tony-chopper",
+    "portrait_url": null
+  },
+  {
+    "name": "Roronoa Zoro",
+    "subtitle": "108 Pound Phoenix",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "The Grand Line",
+      "Long-Range Normal Attacks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/108-pound-phoenix-roronoa-zoro",
+    "portrait_url": null
+  },
+  {
+    "name": "Gecko Moria",
+    "subtitle": "The Seven Warlords of the Sea",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "The Seven Warlords of the Sea / Former Warlords of the Sea",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-seven-warlords-of-the-sea-gecko-moria",
+    "portrait_url": null
+  },
+  {
+    "name": "Hancock",
+    "subtitle": "The Seven Warlords of the Sea",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Attacker(s)",
+      "Baroque Works",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-seven-warlords-of-the-sea-hancock",
+    "portrait_url": null
+  },
+  {
+    "name": "Ms. All Sunday",
+    "subtitle": "Baroque Works / Vice President",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Baroque Works",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/baroque-works-vice-president-ms-all-sunday",
+    "portrait_url": null
+  },
+  {
+    "name": "Bon Clay, aka Mr. 2",
+    "subtitle": "Baroque Works / Officer Agent",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Baroque Works",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/baroque-works-officer-agent-bon-clay-aka-mr-2",
+    "portrait_url": null
+  },
+  {
+    "name": "Kuzan",
+    "subtitle": "Navy HQ / Admiral Aokiji",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Navy",
+      "Logia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/navy-hq-admiral-aokiji-kuzan",
+    "portrait_url": null
+  },
+  {
+    "name": "Sakazuki",
+    "subtitle": "Navy HQ / Admiral Akainu",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Navy",
+      "Logia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/navy-hq-admiral-akainu-sakazuki",
+    "portrait_url": null
+  },
+  {
+    "name": "Portgaz D. Ace",
+    "subtitle": "Whitebeard Pirates / 2nd Division Commander",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Whitebeard Pirates",
+      "Logia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/whitebeard-pirates-2nd-division-commander-portgaz-d-ace",
+    "portrait_url": null
+  },
+  {
+    "name": "Edward Newgate",
+    "subtitle": "Whitebeard Pirates / Captain Whitebeard",
+    "rarity": "Bounty Festival",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Whitebeard Pirates",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/whitebeard-pirates-captain-whitebeard-edward-newgate",
+    "portrait_url": null
+  },
+  {
+    "name": "Eneru",
+    "subtitle": "Kami",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Logia",
+      "Power users",
+      "The Grand Line"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/kami-eneru",
+    "portrait_url": null
+  },
+  {
+    "name": "Crocodile",
+    "subtitle": "The Seven Warlords of the Sea",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "The Seven Warlords of the Sea / Former Warlords of the Sea",
+      "Baroque Works",
+      "Logia"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-seven-warlords-of-the-sea-crocodile",
+    "portrait_url": null
+  },
+  {
+    "name": "Nefeltari Vivi",
+    "subtitle": "Peacock Slasher",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "The Grand Line",
+      "Alabasta Kingdom"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/peacock-slasher-nefeltari-vivi",
+    "portrait_url": null
+  },
+  {
+    "name": "Monkey D. Luffy",
+    "subtitle": "Gum-Gum Storm",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/gum-gum-storm-monkey-d-luffy",
+    "portrait_url": null
+  },
+  {
+    "name": "Wapol",
+    "subtitle": "Drum Kingdom / Former Ruler",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Paramecia",
+      "Captain",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/drum-kingdom-former-ruler-wapol",
+    "portrait_url": null
+  },
+  {
+    "name": "Smoker",
+    "subtitle": "Navy HQ / Captain",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Navy",
+      "Logia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/navy-hq-captain-smoker",
+    "portrait_url": null
+  },
+  {
+    "name": "Monkey D. Luffy",
+    "subtitle": "30 Million Berry Bounty",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/30-million-berry-bounty-monkey-d-luffy",
+    "portrait_url": null
+  },
+  {
+    "name": "Arlong",
+    "subtitle": "Arlong Pirates / Captain",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "East Blue",
+      "Captain",
+      "Fish-Man"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/arlong-pirates-captain-arlong",
+    "portrait_url": null
+  },
+  {
+    "name": "Dracule Mihawk",
+    "subtitle": "The Seven Warlords of the Sea",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "East Blue",
+      "The Seven Warlords of the Sea / Former Warlords of the Sea"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-seven-warlords-of-the-sea-dracule-mihawk",
+    "portrait_url": null
+  },
+  {
+    "name": "Kaya",
+    "subtitle": "Girl from Syrub Village",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "East Blue"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/girl-from-syrub-village-kaya",
+    "portrait_url": null
+  },
+  {
+    "name": "Yasopp",
+    "subtitle": "Red-Haired Pirates / Sharp Shooter",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "East Blue",
+      "Red-Haired Pirates",
+      "Long-Range Normal Attacks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/red-haired-pirates-sharp-shooter-yasopp",
+    "portrait_url": null
+  },
+  {
+    "name": "Shanks",
+    "subtitle": "Red-Haired Pirates / Captain",
+    "rarity": "",
+    "stars": "4★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "East Blue",
+      "Red-Haired Pirates",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/red-haired-pirates-captain-shanks",
+    "portrait_url": null
+  },
+  {
+    "name": "Roronoa Zoro",
+    "subtitle": "Obe-Sword Style Iai Lion Song",
+    "rarity": "Free 3 Stars",
+    "stars": "3★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "The Grand Line"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/obe-sword-style-iai-lion-song-roronoa-zoro",
+    "portrait_url": null
+  },
+  {
+    "name": "Sanji",
+    "subtitle": "Veau Vengeance",
+    "rarity": "",
+    "stars": "3★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Straw Hat Pirates",
+      "The Grand Line"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/veau-vengeance-sanji",
+    "portrait_url": null
+  },
+  {
+    "name": "Usopp",
+    "subtitle": "5t Hammer",
+    "rarity": "",
+    "stars": "3★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "The Grand Line"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/5t-hammer-usopp",
+    "portrait_url": null
+  },
+  {
+    "name": "Nami",
+    "subtitle": "Climate Baton",
+    "rarity": "",
+    "stars": "3★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "The Grand Line",
+      "Long-Range Normal Attacks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/climate-baton-nami",
+    "portrait_url": null
+  },
+  {
+    "name": "Ms. Wednesday",
+    "subtitle": "Baroque Works / Frontier Agents",
+    "rarity": "",
+    "stars": "3★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Baroque Works",
+      "The Grand Line"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/baroque-works-frontier-agents-ms-wednesday",
+    "portrait_url": null
+  },
+  {
+    "name": "Alvida",
+    "subtitle": "Slip-Slip Fruit",
+    "rarity": "",
+    "stars": "3★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Paramecia",
+      "Captain",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/slip-slip-fruit-alvida",
+    "portrait_url": null
+  },
+  {
+    "name": "Tashigi",
+    "subtitle": "Navy HQ / Master Chief Petty Officer",
+    "rarity": "",
+    "stars": "3★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Navy",
+      "The Grand Line"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/navy-hq-master-chief-petty-officer-tashigi",
+    "portrait_url": null
+  },
+  {
+    "name": "Choo",
+    "subtitle": "Arlong Pirates / Officer",
+    "rarity": "",
+    "stars": "3★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "East Blue",
+      "Fish-Man",
+      "Long-Range Normal Attacks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/arlong-pirates-officer-choo",
+    "portrait_url": null
+  },
+  {
+    "name": "Kuroobi",
+    "subtitle": "Arlong Pirates / Officer",
+    "rarity": "",
+    "stars": "3★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "East Blue",
+      "Fish-Man"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/arlong-pirates-officer-kuroobi",
+    "portrait_url": null
+  },
+  {
+    "name": "Hatchan",
+    "subtitle": "Arlong Pirates / Officer",
+    "rarity": "",
+    "stars": "3★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "East Blue",
+      "Fish-Man"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/arlong-pirates-officer-hatchan",
+    "portrait_url": null
+  },
+  {
+    "name": "Don Krieg",
+    "subtitle": "Krieg`s Pirate Armada / Admiral",
+    "rarity": "",
+    "stars": "3★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "East Blue",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/kriegs-pirate-armada-admiral-don-krieg",
+    "portrait_url": null
+  },
+  {
+    "name": "Gin",
+    "subtitle": "Krieg`s Pirate Armada / Battle Commander",
+    "rarity": "",
+    "stars": "3★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "East Blue"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/kriegs-pirate-armada-battle-commander-gin",
+    "portrait_url": null
+  },
+  {
+    "name": "Zeff",
+    "subtitle": "Baratie / Head Chef",
+    "rarity": "",
+    "stars": "3★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "East Blue"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/baratie-head-chef-zeff",
+    "portrait_url": null
+  },
+  {
+    "name": "Captain Kuro",
+    "subtitle": "Black Cat Pirates / Former Captain",
+    "rarity": "",
+    "stars": "3★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "East Blue",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/black-cat-pirates-former-captain-captain-kuro",
+    "portrait_url": null
+  },
+  {
+    "name": "Buggy",
+    "subtitle": "Buggy Pirates / Captain",
+    "rarity": "",
+    "stars": "3★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "East Blue",
+      "Paramecia",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/buggy-pirates-captain-buggy",
+    "portrait_url": null
+  },
+  {
+    "name": "Johnny",
+    "subtitle": "Bounty Hunter",
+    "rarity": "",
+    "stars": "2★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "East Blue"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/bounty-hunter-johnny",
+    "portrait_url": null
+  },
+  {
+    "name": "Yosaku",
+    "subtitle": "Bounty Hunter",
+    "rarity": "",
+    "stars": "2★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "East Blue"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/bounty-hunter-yosaku",
+    "portrait_url": null
+  },
+  {
+    "name": "Butchie",
+    "subtitle": "Black Cat Pirates / Guard",
+    "rarity": "",
+    "stars": "2★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "East Blue"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/black-cat-pirates-guard-butchie",
+    "portrait_url": null
+  },
+  {
+    "name": "Django",
+    "subtitle": "Black Cat Pirates / Captain",
+    "rarity": "",
+    "stars": "2★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Attacker(s)",
+      "East Blue",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/black-cat-pirates-captain-django",
+    "portrait_url": null
+  },
+  {
+    "name": "Cabaji",
+    "subtitle": "Buggy Pirates / Chief of Staff",
+    "rarity": "",
+    "stars": "2★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "East Blue"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/buggy-pirates-chief-of-staff-cabaji",
+    "portrait_url": null
+  },
+  {
+    "name": "Morgan",
+    "subtitle": "Navy Captain",
+    "rarity": "",
+    "stars": "2★",
+    "color": "Blue",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "East Blue",
+      "Navy"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/navy-captain-morgan",
+    "portrait_url": null
+  },
+  {
+    "name": "Helmeppo",
+    "subtitle": "The Idiot Son",
+    "rarity": "",
+    "stars": "2★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "East Blue",
+      "Long-Range Normal Attacks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/the-idiot-son-helmeppo",
+    "portrait_url": null
+  },
+  {
+    "name": "Alvida",
+    "subtitle": "Alvida Pirates / Captain",
+    "rarity": "",
+    "stars": "2★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "East Blue",
+      "Captain"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/alvida-pirates-captain-alvida",
+    "portrait_url": null
+  },
+  {
+    "name": "Koby",
+    "subtitle": "Chore Boy",
+    "rarity": "",
+    "stars": "2★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "East Blue"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/chore-boy-koby",
+    "portrait_url": null
+  },
+  {
+    "name": "Higuma the Bear",
+    "subtitle": "Mountain Bandits / Leader",
+    "rarity": "",
+    "stars": "2★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "East Blue"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/mountain-bandits-leader-higuma-the-bear",
+    "portrait_url": null
+  },
+  {
+    "name": "Brook",
+    "subtitle": "Straw Hat Pirates / Musician",
+    "rarity": "",
+    "stars": "2★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/straw-hat-pirates-musician-brook",
+    "portrait_url": null
+  },
+  {
+    "name": "Franky",
+    "subtitle": "Straw Hat Pirates / Ship Carpenter",
+    "rarity": "",
+    "stars": "2★",
+    "color": "Red",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "Straw Hat Pirates",
+      "The Grand Line"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/straw-hat-pirates-ship-carpenter-franky",
+    "portrait_url": null
+  },
+  {
+    "name": "Nico Robin",
+    "subtitle": "Straw Hat Pirates / Archaeologist",
+    "rarity": "",
+    "stars": "2★",
+    "color": "Green",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "Straw Hat Pirates",
+      "Paramecia",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/straw-hat-pirates-archaeologist-nico-robin",
+    "portrait_url": null
+  },
+  {
+    "name": "Tony Tony Chopper",
+    "subtitle": "Straw Hat Pirates / Doctor",
+    "rarity": "",
+    "stars": "2★",
+    "color": "Red",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "Straw Hat Pirates",
+      "Zoan",
+      "Power users"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/straw-hat-pirates-doctor-tony-tony-chopper",
+    "portrait_url": null
+  },
+  {
+    "name": "Sanji",
+    "subtitle": "Straw Hat Pirates / Cook",
+    "rarity": "",
+    "stars": "2★",
+    "color": "Blue",
+    "class": "Attacker",
+    "tags": [
+      "Defender(s)",
+      "East Blue",
+      "Straw Hat Pirates"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/straw-hat-pirates-cook-sanji",
+    "portrait_url": null
+  },
+  {
+    "name": "Usopp",
+    "subtitle": "Straw Hat Pirates / Sharp Shooter",
+    "rarity": "",
+    "stars": "2★",
+    "color": "Blue",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "East Blue",
+      "Straw Hat Pirates",
+      "Long-Range Normal Attacks"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FBlue-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/straw-hat-pirates-sharp-shooter-usopp",
+    "portrait_url": null
+  },
+  {
+    "name": "Nami",
+    "subtitle": "Straw Hat Pirates / Navigator",
+    "rarity": "",
+    "stars": "2★",
+    "color": "Green",
+    "class": "Runner",
+    "tags": [
+      "Runner(s)",
+      "East Blue",
+      "Straw Hat Pirates"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Runner.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/straw-hat-pirates-navigator-nami",
+    "portrait_url": null
+  },
+  {
+    "name": "Roronoa Zoro",
+    "subtitle": "Straw Hat Pirates / Combatant",
+    "rarity": "",
+    "stars": "2★",
+    "color": "Green",
+    "class": "Defender",
+    "tags": [
+      "Defender(s)",
+      "East Blue",
+      "Straw Hat Pirates"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FGreen-Defender.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/straw-hat-pirates-combatant-roronoa-zoro",
+    "portrait_url": null
+  },
+  {
+    "name": "Monkey D. Luffy",
+    "subtitle": "Straw Hat Pirates / Captain",
+    "rarity": "",
+    "stars": "2★",
+    "color": "Red",
+    "class": "Attacker",
+    "tags": [
+      "Attacker(s)",
+      "East Blue",
+      "Straw Hat Pirates",
+      "Paramecia"
+    ],
+    "image_url": "https://opbrhelper.com/_next/image?url=%2Fimages%2Fbadges%2FRed-Attacker.png&w=3840&q=75",
+    "page_url": "https://opbrhelper.com/characters/straw-hat-pirates-captain-monkey-d-luffy",
+    "portrait_url": null
+  }
+]

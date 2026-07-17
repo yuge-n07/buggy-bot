@@ -1,0 +1,12 @@
+{
+  "name": "buggy-d-goat",
+  "version": "1.0.0",
+  "description": "OPBR Discord Bot",
+  "main": "capture_medal_set.js",
+  "scripts": {
+    "start": "python main.py"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  }
+}
