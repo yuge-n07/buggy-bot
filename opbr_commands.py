@@ -191,7 +191,10 @@ class MedalResultView(discord.ui.View):
             from medal_image import generate_medal_set_image
             data = get_opbr_data()
             tag_map = {int(tid): t["name"] for tid, t in data.tags.items()}
-            img = generate_medal_set_image(self.session.result, tag_map)
+            # generate_medal_set_image does blocking network calls (icon
+            # downloads via requests) - run it off the event loop so it
+            # doesn't freeze the whole bot for other users while it works.
+            img = await asyncio.to_thread(generate_medal_set_image, self.session.result, tag_map)
             buffer = io.BytesIO()
             img.save(buffer, format="PNG")
             buffer.seek(0)

@@ -9,6 +9,7 @@ Autocomplete shows: "Name (Subtitle)".
 
 from __future__ import annotations
 
+import asyncio
 import json
 import logging
 import re
@@ -151,7 +152,7 @@ class CharacterCommands(commands.Cog):
                 logger.info(f"Portrait URL missing for {char['name']}, fetching now...")
                 page_url = char.get("page_url")
                 if page_url:
-                    portrait_url = self._extract_portrait_url(page_url)
+                    portrait_url = await asyncio.to_thread(self._extract_portrait_url, page_url)
                     if portrait_url:
                         char["portrait_url"] = portrait_url
                         self._save_data()

@@ -27,26 +27,29 @@ TEXT_COLOR = (255, 255, 255)
 GOLD = (204, 157, 80)
 LINE_SPACING = 6
 
-# Fonts – fallback to default if not found
-FONT_BOLD = None
-FONT_REGULAR = None
-try:
-    FONT_BOLD = ImageFont.truetype(
-        str(Path(__file__).parent / "assets" / "fonts" / "NotoSans-Bold.ttf"),
-        24
-    )
-    FONT_REGULAR = ImageFont.truetype(
-        str(Path(__file__).parent / "assets" / "fonts" / "NotoSans-Regular.ttf"),
-        16
-    )
-    FONT_SMALL = ImageFont.truetype(
-        str(Path(__file__).parent / "assets" / "fonts" / "NotoSans-Regular.ttf"),
-        12
-    )
-except Exception:
-    FONT_BOLD = ImageFont.load_default()
-    FONT_REGULAR = ImageFont.load_default()
-    FONT_SMALL = ImageFont.load_default()
+# Fonts - project can drop real TTFs in assets/fonts/ for a custom
+# look; otherwise we fall back to Pillow's own bundled scalable font
+# (ImageFont.load_default(size=...), added in Pillow 10.1) rather than
+# the old unscaled ~10px bitmap default, which was unreadable at these
+# sizes and made every generated image look broken.
+def _load_font(bold: bool, size: int):
+    font_dir = Path(__file__).parent / "assets" / "fonts"
+    custom_path = font_dir / ("NotoSans-Bold.ttf" if bold else "NotoSans-Regular.ttf")
+    if custom_path.exists():
+        try:
+            return ImageFont.truetype(str(custom_path), size)
+        except Exception as e:
+            logger.warning(f"Failed to load custom font {custom_path}: {e}")
+    try:
+        return ImageFont.load_default(size=size)
+    except TypeError:
+        # Pillow < 10.1 doesn't support the size= kwarg here.
+        return ImageFont.load_default()
+
+
+FONT_BOLD = _load_font(bold=True, size=24)
+FONT_REGULAR = _load_font(bold=False, size=16)
+FONT_SMALL = _load_font(bold=False, size=12)
 
 
 def download_icon(url: str, size: int = MEDAL_SIZE) -> Image.Image:

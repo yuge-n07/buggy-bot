@@ -102,6 +102,7 @@ class MedalInfo:
     name: str
     icon_url: str
     unique_trait: str
+    tag_ids: list[int] = field(default_factory=list)
 
 
 @dataclass
@@ -559,6 +560,7 @@ class OPBRData:
                 name=medal.get("name", "Unknown Medal"),
                 icon_url=self.medal_icon_url(medal),
                 unique_trait=self.ability_detail(medal.get("ability_id")),
+                tag_ids=medal.get("tag_ids", []),
             )
             for medal in best_medals
         ]
@@ -637,6 +639,7 @@ class OPBRData:
                 name=medal.get("name", "Unknown Medal"),
                 icon_url=self.medal_icon_url(medal),
                 unique_trait=self.ability_detail(medal.get("ability_id")),
+                tag_ids=medal.get("tag_ids", []),
             )
             for medal in final_medals
         ]
