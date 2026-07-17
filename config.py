@@ -3,10 +3,9 @@ config.py
 ---------
 Handles runtime configuration for Buggy D. GOAT.
 
-Secrets are loaded from a .env file if it exists, otherwise prompted
-interactively. After prompting, they are saved to .env so you only
-need to enter them once. The .env file is never committed to version
-control and is kept in memory only at runtime.
+On Railway (or any non-interactive environment), we read all secrets
+from environment variables and never prompt the user.
+If running interactively, we fall back to prompting (and saving .env).
 """
 
 from __future__ import annotations
@@ -31,12 +30,15 @@ ENV_FILE = Path(".env")
 
 @dataclass
 class RuntimeSecrets:
-    """Holds everything the bot needs, kept strictly in memory."""
-
     discord_token: str
     gemini_keys: list[str] = field(default_factory=list)
     owner_id: int = 0
     test_guild_id: int | None = None
+
+
+def is_interactive() -> bool:
+    """Return True if we are running in an interactive terminal."""
+    return sys.stdin.isatty()
 
 
 def _load_from_env() -> dict[str, str]:
@@ -52,6 +54,28 @@ def _load_from_env() -> dict[str, str]:
                     key, value = line.split("=", 1)
                     env_vars[key.strip()] = value.strip()
     return env_vars
+
+
+def _prompt_hidden(label: str, required: bool = True) -> str:
+    """Prompt for a hidden value. Only used if interactive."""
+    while True:
+        try:
+            value = getpass.getpass(f"{label}: ").strip()
+        except Exception:
+            print("(hidden input unavailable, input will be visible)")
+            value = input(f"{label}: ").strip()
+
+        if value or not required:
+            return value
+        print("  -> This value is required. Please try again.")
+
+
+def _prompt_visible(label: str, required: bool = True) -> str:
+    while True:
+        value = input(f"{label}: ").strip()
+        if value or not required:
+            return value
+        print("  -> This value is required. Please try again.")
 
 
 def _write_env(secrets: RuntimeSecrets) -> None:
@@ -75,45 +99,66 @@ def _write_env(secrets: RuntimeSecrets) -> None:
             "# Optional: guild ID for instant slash command sync during testing",
             f"TEST_GUILD_ID={secrets.test_guild_id}",
         ])
-    # Write with restrictive permissions (read/write for owner only)
     with open(ENV_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
-    # On Unix-like systems, set permissions to 600 (owner read/write)
     try:
         os.chmod(ENV_FILE, 0o600)
     except Exception:
-        pass  # not critical
-
-
-def _prompt_hidden(label: str, required: bool = True) -> str:
-    """Prompt for a hidden value (getpass). Falls back to visible input
-    if the terminal doesn't support hidden entry."""
-    while True:
-        try:
-            value = getpass.getpass(f"{label}: ").strip()
-        except Exception:
-            print("(hidden input unavailable, input will be visible)")
-            value = input(f"{label}: ").strip()
-
-        if value or not required:
-            return value
-        print("  -> This value is required. Please try again.")
-
-
-def _prompt_visible(label: str, required: bool = True) -> str:
-    while True:
-        value = input(f"{label}: ").strip()
-        if value or not required:
-            return value
-        print("  -> This value is required. Please try again.")
+        pass
 
 
 def collect_runtime_secrets() -> RuntimeSecrets:
-    """Collects runtime secrets, either from .env or interactively.
-    If any are missing, prompts for them and saves the updated .env."""
+    """
+    Collects runtime secrets.
+    If interactive: load from .env or prompt, then save to .env.
+    If non-interactive: read from environment variables only.
+    """
+    # First, try to load from .env (if it exists)
     env = _load_from_env()
 
-    # Load from env or prompt
+    # If we are non‑interactive, we must read from environment variables.
+    if not is_interactive():
+        discord_token = os.environ.get("DISCORD_TOKEN")
+        if not discord_token:
+            # In non‑interactive, we must have the token set.
+            print("ERROR: DISCORD_TOKEN environment variable is required in non‑interactive mode.")
+            sys.exit(1)
+
+        gemini_keys = []
+        for i in range(1, 6):
+            key = os.environ.get(f"GEMINI_KEY_{i}")
+            if key:
+                gemini_keys.append(key)
+        if not gemini_keys:
+            print("ERROR: At least one GEMINI_KEY_* environment variable is required in non‑interactive mode.")
+            sys.exit(1)
+
+        owner_id_str = os.environ.get("OWNER_ID")
+        if not owner_id_str:
+            print("ERROR: OWNER_ID environment variable is required in non‑interactive mode.")
+            sys.exit(1)
+        try:
+            owner_id = int(owner_id_str)
+        except ValueError:
+            print("ERROR: OWNER_ID must be a number.")
+            sys.exit(1)
+
+        test_guild_id = None
+        test_guild_str = os.environ.get("TEST_GUILD_ID")
+        if test_guild_str:
+            try:
+                test_guild_id = int(test_guild_str)
+            except ValueError:
+                pass  # ignore invalid
+
+        return RuntimeSecrets(
+            discord_token=discord_token,
+            gemini_keys=gemini_keys,
+            owner_id=owner_id,
+            test_guild_id=test_guild_id,
+        )
+
+    # Interactive mode: load from .env or prompt, then save .env
     discord_token = env.get("DISCORD_TOKEN")
     if not discord_token:
         discord_token = _prompt_hidden("Discord Bot Token")
@@ -125,7 +170,6 @@ def collect_runtime_secrets() -> RuntimeSecrets:
         if key:
             gemini_keys.append(key)
 
-    # If no keys in env, prompt for all
     if not gemini_keys:
         print("\nEnter your Gemini API keys (used in round-robin rotation).")
         for i in range(1, 6):
